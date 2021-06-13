@@ -55,8 +55,14 @@ for person in people:
 img_dir = np.array(img_dir, dtype="object")
 if not os.path.exists(os.path.join(os.getcwd(), "Face_data")):
     os.mkdir(os.path.join(os.getcwd(), "Face_data"))
-if np.array_equal(np.load("Face_data/img_dir.npy", allow_pickle=True), img_dir):
-    print("Face data already analized...")
+
+if os.path.exists("Face_data/img_dir.npy"):
+    if np.array_equal(np.load("Face_data/img_dir.npy", allow_pickle=True), img_dir):
+        print("Face data already analized...")
+    else:
+        np.save("Face_data/img_dir.npy", img_dir)
+        print("Analizing faces...")
+        train_recognizer()
 else:
     np.save("Face_data/img_dir.npy", img_dir)
     print("Analizing faces...")
