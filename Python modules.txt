@@ -1,0 +1,14 @@
+pip install Pillow
+pip install requests
+pip install pyinstaller
+pip install pygame
+pip install playsound
+pip install numpy
+pip install opencv-contrib-python
+pip install winregistry
+pip install pep8
+pip install apscheduler
+pip install speechrecognition
+pip install pyttsx3
+pip install pipwin
+pipwin install pyaudio
