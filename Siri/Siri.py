@@ -148,7 +148,7 @@ while True:
         robot_brain = "Have you ever heard a province named: Cồn Lặc"
     elif "covid" in you or ("learn" in you and "online" in you):
         robot_brain = "Wear a mask, wash your hands, keep a safe distance"
-    elif "bye" in you or "turn off" in you or "good night" in you or "restart" in you or "sleep" in you or "shut down" in you:
+    elif "bye" in you or "turn off" in you or "goodnight" in you or "restart" in you or "sleep" in you or "shut down" in you:
         if int(now.strftime("%H")) > 0 and int(now.strftime("%H")) < 21:
             robot_brain = "Have a nice day"
             robot_mouth.say(robot_brain)
