@@ -12,3 +12,4 @@ pip install speechrecognition
 pip install pyttsx3
 pip install pipwin
 pipwin install pyaudio
+pip install mediapipe

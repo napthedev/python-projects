@@ -1,8 +1,5 @@
 import os
-try:
-    import getpass
-except Exception:
-    os.system("pip install getpass")
+import getpass
 
 USER = getpass.getuser()
 PATH = r"C:\Users\{}\AppData\Roaming\Sublime Text\Packages\User\.SublimeREPLHistory\python.db".format(USER)
