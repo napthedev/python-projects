@@ -4,13 +4,16 @@
       "name": "Adobe.Photoshop.2020.v21.2.exe"
     },
     {
-      "name": "BraveBrowserSetup.exe"
+      "name": "EyeLeo_Installer_1.3.6.exe"
     },
     {
-      "name": "FigmaSetup.exe"
+      "name": "Git-2.32.0-64-bit.exe"
     },
     {
       "name": "heroku-x64.exe"
+    },
+    {
+      "name": "internet_download_manager_6.38.25.exe"
     },
     {
       "name": "Microsoft Office 2016.iso"
@@ -19,42 +22,13 @@
       "name": "mongodb-windows-x86_64-4.4.6-signed.msi"
     },
     {
-      "name": "python-3.9.4-amd64.exe"
+      "name": "Ninite Foxit Reader NET 48 Python x64 3 VLC Installer.exe"
     },
     {
-      "children": [
-        {
-          "name": "EyeLeo_Installer_1.3.6.exe"
-        },
-        {
-          "name": "foxit-reader_101337598.exe"
-        },
-        {
-          "name": "Git-2.31.1-64-bit.exe"
-        },
-        {
-          "name": "internet_download_manager_6.38.25.exe"
-        },
-        {
-          "name": "node-v14.16.1-x64.msi"
-        },
-        {
-          "name": "OBS-Studio-26.1.1-Full-Installer-x64.exe"
-        },
-        {
-          "name": "Uninstal_Tool_3.5.10.exe"
-        },
-        {
-          "name": "vlc-3.0.14-win32.exe"
-        },
-        {
-          "name": "winrar-x64-601.exe"
-        }
-      ],
-      "name": "Silent"
+      "name": "node-v14.17.3-x64.msi"
     },
     {
-      "name": "Silent.cmd"
+      "name": "OBS-Studio-27.0.1-Full-Installer-x64.exe"
     },
     {
       "name": "sublime_text_build_4107_x64_setup.exe"
@@ -65,13 +39,16 @@
           "name": "Activate AIO Tools v3.1.3.rar"
         },
         {
+          "name": "Allow Script Powershell.ps1"
+        },
+        {
+          "name": "Fix_Pip.py"
+        },
+        {
           "name": "Google DNS.bat"
         },
         {
           "name": "JetBrainsMono-2.225.zip"
-        },
-        {
-          "name": "Remove Edge Chromium.txt"
         },
         {
           "name": "Windows Photo Viewer.reg"
@@ -80,10 +57,7 @@
       "name": "Text"
     },
     {
-      "name": "VSCodeUserSetup-x64-1.57.0.exe"
-    },
-    {
-      "name": "ZoomInstaller.exe"
+      "name": "Uninstal_Tool_3.5.10.exe"
     }
   ],
   "name": "Setup"
