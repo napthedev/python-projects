@@ -13,3 +13,4 @@ pip install pyttsx3
 pip install pipwin
 pipwin install pyaudio
 pip install mediapipe
+pip install pycaw
