@@ -14,3 +14,4 @@ pip install pipwin
 pipwin install pyaudio
 pip install mediapipe
 pip install pycaw
+pip install openpyxl

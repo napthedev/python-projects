@@ -4,6 +4,9 @@
       "name": "Adobe.Photoshop.2020.v21.2.exe"
     },
     {
+      "name": "BraveBrowserSetup.exe"
+    },
+    {
       "name": "EyeLeo_Installer_1.3.6.exe"
     },
     {
@@ -22,16 +25,16 @@
       "name": "mongodb-windows-x86_64-4.4.6-signed.msi"
     },
     {
-      "name": "Ninite Foxit Reader NET 48 Python x64 3 VLC Installer.exe"
-    },
-    {
       "name": "node-v14.17.3-x64.msi"
     },
     {
       "name": "OBS-Studio-27.0.1-Full-Installer-x64.exe"
     },
     {
-      "name": "sublime_text_build_4107_x64_setup.exe"
+      "name": "python-3.9.6-amd64.exe"
+    },
+    {
+      "name": "sublime_text_build_4113_x64_setup.exe"
     },
     {
       "children": [
@@ -40,9 +43,6 @@
         },
         {
           "name": "Allow Script Powershell.ps1"
-        },
-        {
-          "name": "Fix_Pip.py"
         },
         {
           "name": "Google DNS.bat"
@@ -58,6 +58,9 @@
     },
     {
       "name": "Uninstal_Tool_3.5.10.exe"
+    },
+    {
+      "name": "VSCodeUserSetup-x64-1.58.0.exe"
     }
   ],
   "name": "Setup"
