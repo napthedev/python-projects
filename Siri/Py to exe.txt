@@ -1,1 +1,0 @@
-pyinstaller --onefile --icon=app.ico --hidden-import=pyttsx3.drivers.sapi5 Siri.py

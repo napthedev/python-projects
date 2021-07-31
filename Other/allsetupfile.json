@@ -1,6 +1,9 @@
 {
   "children": [
     {
+      "name": "7z1902-x64.exe"
+    },
+    {
       "name": "Adobe.Photoshop.2020.v21.2.exe"
     },
     {
@@ -39,7 +42,7 @@
     {
       "children": [
         {
-          "name": "Activate AIO Tools v3.1.3.rar"
+          "name": "Activate AIO Tools v3.1.3.zip"
         },
         {
           "name": "Allow Script Powershell.ps1"
