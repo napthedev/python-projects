@@ -8,10 +8,6 @@ pip install opencv-contrib-python
 pip install winregistry
 pip install pep8
 pip install apscheduler
-pip install speechrecognition
-pip install pyttsx3
-pip install pipwin
-pipwin install pyaudio
 pip install mediapipe
 pip install pycaw
 pip install openpyxl
