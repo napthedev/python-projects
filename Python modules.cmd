@@ -10,4 +10,4 @@ pip install pep8
 pip install apscheduler
 pip install mediapipe
 pip install pycaw
-pip install openpyxl
+pip install beautifulsoup4
