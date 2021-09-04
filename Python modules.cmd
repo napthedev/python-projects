@@ -12,3 +12,4 @@ pip install mediapipe
 pip install pycaw
 pip install beautifulsoup4
 pip install pytube
+pip install Flask
